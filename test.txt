@@ -1,1 +1,1 @@
-test GitHub.com
+test  https://github.com/tienthanh47/chuyen-de-cms.git
